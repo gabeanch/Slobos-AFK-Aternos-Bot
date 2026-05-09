@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "copperleggings1.aternos.me:60423",
+    "ip": "copperleggings1.aternos.me",
     "port": 60423,
     "version": "",
     "try-creative": false
